@@ -9,6 +9,7 @@ int main ()
 int num;
 
 printf("Enter any number :");
+
 scanf("%d",&num);
 
 switch (num > 0)
